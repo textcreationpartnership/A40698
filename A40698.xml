@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cheaters speculum, or, The new English rogue being an account of the many notorious cheats and villainous actions of William Fuller the impostor, from the time of his birth to his advancement to the pillory, and the late famous settlement in Bridewel, with the prodigious steps that he made in that wonderful expedition, and his present behaviour in that colledge : to which is added a living elegy on his deadly misfortunes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40698</idno>
+            <idno type="STC">Wing F2481</idno>
+            <idno type="STC">ESTC R40982</idno>
+            <idno type="EEBO-CITATION">19540497</idno>
+            <idno type="OCLC">ocm 19540497</idno>
+            <idno type="VID">109092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109092)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1687:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cheaters speculum, or, The new English rogue being an account of the many notorious cheats and villainous actions of William Fuller the impostor, from the time of his birth to his advancement to the pillory, and the late famous settlement in Bridewel, with the prodigious steps that he made in that wonderful expedition, and his present behaviour in that colledge : to which is added a living elegy on his deadly misfortunes.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Markham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fuller, William, 1670-1717?</term>
+               <term>Great Britain --  History --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109092:1"/>
+            <pb facs="tcp:109092:1"/>
+            <p>The Cheaters <hi>Speculum:</hi> OR, THE New <hi>Engliſh</hi> Rogue.</p>
+            <p>Being an Account of the many Notorious <hi>Cheats</hi> and Villanous <hi>Actions</hi> of <hi>William Fuller</hi> the Impoſtor, from the time of his Birth, to his advancement to the <hi>Pillory,</hi> and late famous ſettlement in <hi>Bridewel;</hi> with the prodigious ſteps that he made in that wonderful Expedi<g ref="char:EOLhyphen"/>tion, and his preſent <hi>Behaviour</hi> in that <hi>Colledge.</hi>
+            </p>
+            <p>To which is added a living Elegy on his deadly Misfortunes</p>
+            <figure>
+               <lg>
+                  <l>
+                     <hi>From Pillory rtip'd</hi>
+                  </l>
+                  <l>
+                     <hi>To</hi> Bridewel <hi>to he whip'd</hi>
+                  </l>
+                  <l>
+                     <hi>The laſh my Back has nip'd.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The work I hate,</hi>
+                  </l>
+                  <l>
+                     <hi>Is now my Fate.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Fuller <hi>the Cheat,</hi>
+                  </l>
+                  <l>
+                     <hi>His Hemp doth beat.</hi>
+                  </l>
+                  <l>
+                     <hi>Sham Plots to defeat.</hi>
+                  </l>
+               </lg>
+               <figDesc>woodcut, depicting punishments</figDesc>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed for <hi>P. Markham</hi> near <hi>Bridge-water-Squ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="2" facs="tcp:109092:2"/>
+               <head>The Cheaters Speculum; or, the new Engliſh Rogue, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <hi>WIlliam F—r,</hi> the Wonder as well as Shame of Mankind, was born at <hi>Milton</hi> near <hi>Sitingbur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in <hi>Kent,</hi> in the Year 1674. his Father being by Occupation a Butcher; who having th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Misfortune to die a Priſoner in the <hi>Kings-Bench:</hi> His tru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> begotten Son, after ſeveral Wild and Extravagant Rogurie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by him committed, was put an Apprentice to one Mr. <hi>James Hartley</hi> a Coney-Wool Cutter in <hi>Shoe-Lane,</hi> the 4th of <hi>January,</hi> 1686; in whoſe Service he continued (tho with much uneaſineſs) till ſome time after the pretende<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Prince of <hi>Wales</hi> was born, as his ſaid Maſter (now in <hi>Lug<g ref="char:EOLhyphen"/>gate</hi>) is ready to atteſt; therefore a ſpecial Evidence you may be ſure, for ſuch a dark Iutriegue. Paſſing by his ungrateful flight from his Maſter, and his ſtrange, or at leaſt pretended Diſcoveries of the Lord knows what a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>White-Hall,</hi> in his imaginary Poſt of the Back-Stairs; and his changing his Religion almoſt as often as his Cloaths. I ſhall haſten to relate ſome, (for 'tis impoſſible to ſet down all in this narrow Compaſs) of his moſt notorious Cheats and Villanies, as followeth, <hi>viz.</hi> Having been in <hi>France</hi> for ſome time, where 'tis ſuppos'd he pick'd up his Plot, <hi>&amp;c.</hi> he came to <hi>London,</hi> &amp; bluſter'd under no leſs a Dignity than the Major of a Regiment; in which diſguiſe he put ſeveral ſcurvy tricks on Perſons of no mean Quality, by pretend<g ref="char:EOLhyphen"/>ed Bills of <hi>Exchange;</hi> particularly 50 <hi>l.</hi> from a Mercer in <hi>Covent-Garden.</hi> From a Paſtry Cook near St. <hi>James</hi>'s, by pretending to proſecute Roman Catholicks, he hook'd out of him near 80 <hi>l.</hi> and under pretence of being a Country Gentleman, in the Year 1691, cheated a Collonel in <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> of Conſiderable Sums of Money, beſides what he run in the Tick for Board, Lodging, <hi>&amp;c.</hi> but at laſt the Collonel having danced a great while to the Tune of Pa<g ref="char:EOLhyphen"/>tience; he ſnaps him up and ſends him to his Father's Lodg<g ref="char:EOLhyphen"/>ing in the <hi>King's-Bench</hi> Priſon, till he had the opportunity of Liberty, under pretence of going out with the Keep<g ref="char:EOLhyphen"/>er to buy his Wife a Top-knot and Commode, leaping out of one Boat into another, and ſo got off: After this, <hi>Eng<g ref="char:EOLhyphen"/>land</hi> being to hot for him, he makes for <hi>Ireland;</hi> where Lodging at a Barbers Houſe in <hi>Dublin,</hi> he wheedled a <hi>Dutch</hi> Officer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of a 100 <hi>l.</hi> and ſome other Perſons of great
+<pb n="3" facs="tcp:109092:2"/>Sums, by drawing Counterfeit Bills of Exchange on an E<g ref="char:EOLhyphen"/>minent Merchant in <hi>Wood-ſtreet,</hi> and made uſe of the moſt Honourable Perſons Names in <hi>London,</hi> to countenance his Cheats; by which means he run in his Landlords Debt near a 100 <hi>l.</hi> and being asked for it, he prevail'd on a poor Honeſt Citizen to be bound for it, with plenty of Oaths and large promiſes of returning it as ſoon as he came to <hi>England.</hi>
+               </p>
+               <p>Soon after his arrival in <hi>England,</hi> he embarked for <hi>Flanders</hi> and in his way thither wheedled 10 <hi>l.</hi> out of the Capt. of Ship, telling him he was ſuch a Collonel, and writes him a Bill to receive the Money at <hi>Amſterdam;</hi> but when he came to get his Bill accepted, he was ſurprized to hear the Gen<g ref="char:EOLhyphen"/>tleman ſay he knew no ſuch Collonel, and ſo was forced to make the beſt of a bad Market.</p>
+               <p>Being fluſh'd with good ſucceſs, he had the impudence to pretend himſelf a Perſon of great Quality, and under that diſguiſe ſo far inſinuated himſelf into the favour of a cer<g ref="char:EOLhyphen"/>tain <hi>Engliſh</hi> Major General, that he ſuck'd 200 Guineas from him; and had the Honour to Ride every day with him in his Coach; but as ſoon as he ſaw an opportunity, he gave the General the Dog to hold.</p>
+               <p>From hence he marches (with his Pocket well lin'd) to the <hi>Hague;</hi> where he gave himſelf the Title of Baron <hi>Fuller,</hi> and under that Nominal Dignity, he play'd many a villa<g ref="char:EOLhyphen"/>nous Cheat, and liv'd at a damnable high Rate, and among o<g ref="char:EOLhyphen"/>ther things playing all his Money away one Night at Gaming, threw among them a Bill of Exchange of 30 <hi>l.</hi> payable to <hi>William</hi> Baron <hi>Fuller</hi> or his Order, which paſs'd as currant as right Sterling <hi>Engliſh;</hi> but getting near its (ſuppoſed) in<g ref="char:EOLhyphen"/>trinſick value, he left both the Game and Gamſters to make the beſt Market they cou'd of his piece of Paper. Soon af<g ref="char:EOLhyphen"/>ter meeting with a <hi>Dutch</hi> Officer lately arrived from <hi>England, Fuller</hi> gets acquainted with him, and under the Notion of be<g ref="char:EOLhyphen"/>ing Sir <hi>William Fuller,</hi> he without much ſcruple obtain'd 200 Guilders from him, leaving a Bill of his hand to receive it in <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Being at</hi> Rotterdam, <hi>he grew very intimate with a</hi> Scotch <hi>Merchant, who wonderfully doating on him above the reſt,</hi> Fuller <hi>takes the Advantage, and paums a Bill of</hi> 300 <hi>l.</hi> Engliſh <hi>Money upon him to receive at</hi> Amſterdam, <hi>and got him to lend him</hi> 150 <hi>l.</hi>
+                  <hi>all under the old pretences, that his Money was not arrived according to his appointment, and ſome days after finding the</hi> Scoth <hi>Man would ſuddenly go for Amſterdam, he wheedled him out of</hi> 50 <hi>l.</hi>
+                  <hi>more, which the</hi> Scot, <hi>or rather</hi> Sot, <hi>to make even Money on't paid him without the leaſt ſcruple, and takes the Paper Mortgage for his Security, leaving</hi> Fuller <hi>to rejoyce at his Abſen
+<pb n="4" facs="tcp:109092:3"/>But about a Month after coming to</hi> Helvetſluys, <hi>he had the unhappi<g ref="char:EOLhyphen"/>neſs to meet with a particular friend of the General he had Cheated of the</hi> 200 <hi>Guineas, who taking Sir</hi> William <hi>aſide, tells him his Crime, and demands the Money forthwith, otherwiſe threaten'd to jayl him for a Cheat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> So that</hi> Fuller <hi>being aſtoniſh'd, was forc'd to pay the</hi> 200 <hi>Guineas back again, and glad of eſcaping ſo, but was forc'd to make up the Sum with his Watch, which mov'd the Gentleman to that degree, that he threw him five Guineas back a<g ref="char:EOLhyphen"/>gain, and bid him Cheat all the World, except a Soldier; adding that that little wou'd ſerve him for working Tools to ſet up with.</hi>
+               </p>
+               <p>
+                  <hi>Being brought to the narrow ſcantling of</hi> 5 <hi>Guineas, and meeting with ſome</hi> Engliſh <hi>Merchants who were waiting for a Paſ<g ref="char:EOLhyphen"/>ſage gets to</hi> Harwich <hi>into their acquaintance, and telling abundance of</hi> Lies, he in ſhort went on board with them, and by the way told them that his Coach and Six Horſes were order'd by his Letters to meet him at <hi>Harwich,</hi> in which they <hi>ſhould bear him</hi> Company to <hi>London:</hi> and thereupon gets 10 <hi>l.</hi> from one of them, upon promiſe of payment at his arrival; but his pro<g ref="char:EOLhyphen"/>miſed Coach not coming, he with the Merchants were forc'd to accept of a Hir'd Coach to <hi>London:</hi> where taking leave of his Fellow Travellers, by inviting them to a fat Buck Feaſt the <hi>Tueſday</hi> following, at the <hi>Queens-head-Tavern.</hi> where he promiſed to pay the Mony borrow'd, but tho' they came at the time appointed, no <hi>Fuller</hi> appear'd.</p>
+               <p>
+                  <hi>Paſſing by the affront he offer'd to the Houſe of Commons in</hi> 91, <hi>and his being voted a Cheat, and his Pillory advancement for it.</hi> Soon after he wheedl'd 15 l. out of Dr. <hi>Oates,</hi> for which piece of Ingratitude to a ſworn Brother of the Lying Order, the Doctor never gave him a good word ſince. Being at <hi>Chi<g ref="char:EOLhyphen"/>cheſter,</hi> he drew a Counterfeit Note for 5 <hi>l.</hi> on a Banker in <hi>Lombard-ſtreet,</hi> which he impos'd on Mr. <hi>Barnes</hi> the Carrier, who when he came to Town (tho' too late) found out the Cheat tho' he had loſt the Cheater. Coming incognito to <hi>London,</hi> he took a Lodging at a Cane-Shop juſt without <hi>Tem<g ref="char:EOLhyphen"/>ple-Bar.</hi> at Capt. <hi>Daintries;</hi> where pretending himſelf (as u<g ref="char:EOLhyphen"/>ſually he did) a Perſon of Quality, and being diſappointed of his Rents, and returns out of the Country, and one day pretended to be wounded by ſome Ruffins, who hinder'd his <hi>Journey into</hi> Kent <hi>to receive his Rents, under pretence of ſeeking Revenge of his pretended Aſſaſſinators, borrows a Brace of Pi<g ref="char:EOLhyphen"/>ſtols to the value of</hi> 6 <hi>Guineas, and march't off Bag and Baggage to</hi> Graveſend, <hi>leaving his name in the Capt's. Book. as a teſtimony of his acknowledgment: And afterwards being come to</hi> Canterbu<g ref="char:EOLhyphen"/>ry <hi>with his Man at his Heels; where the People of that place, in<g ref="char:EOLhyphen"/>ſtead of putting tricks upon Travellors were ſufficiently trick'd by
+<pb n="5" facs="tcp:109092:3"/>them, which for want of room</hi> I <hi>can<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t particularize. A Gentle<g ref="char:EOLhyphen"/>woman in that Country having an Extravagant Son, who was ſentenc'd to die,;</hi> Fuller <hi>hearing ſhe was able and willing to lay down a Conſiderable ſum to ſave his Life, went to her and proffer'd his Service, telling her he could not only get a Reprieve, but her Son's Pardon alſo; by having ſuch Intereſt with the Earl of</hi> Rom<g ref="char:EOLhyphen"/>ney <hi>and</hi> Albermarle. <hi>The Mother who gave him over for loſt, upon</hi> Fullers <hi>Requeſt, ſhe agrees to give him</hi> 60 l.<hi>in Hand. and</hi> 40 <hi>l.</hi>
+                  <hi>when the Pardon was ſeal'd; when having accordingly paid the Money, he marcht off directly into</hi> Yorkſhire, <hi>leaving the mournful Cheated Mother out of her Money, and the Poor Man out of his Life.</hi>
+               </p>
+               <p>Having hammer'd out (ſome time after) <hi>a unſenſical</hi> Book call'd his plain Proof, and ſold it Mr. <hi>H.</hi>—'s for a <hi>conſiderable Sum, he at laſt ſo far impoſed upon her, as to wheedle a much greater out of her afterwards, which he will pay when the Devil's blind, unleſs his new Imployment in Bride well proves more beneficial to him than it has done to his Pre<g ref="char:EOLhyphen"/>deceſſors.</hi>
+               </p>
+               <p>
+                  <hi>But to proceed, in</hi> 1698, <hi>he being reduc'd to great Wants, comes to a ſmall Village in</hi> Kent, <hi>where one</hi> Anne Brown <hi>a poor Widdow woman being at the Door, he asked for Lodging, and being admitted, he told her that he came of an Honourable Family in that Country, but being bound for other Men, had quite ruin'd himſelf and his Children, therefore was now forced to work for his Living, and thereupon defired her to get him ſome Hay-making, which ſhe accordingly did, for which he thank'd her, and he agreed to give her</hi> 2 <hi>s.</hi> 8 <hi>d.</hi>
+                  <hi>per week for Dye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and Lodging, and after a Weeks work he refus'd his wages, telling his Landlady, he would let it lie in his Maſter's Hands till it was a good Lump, which ſhe finding true upon enquiry, was well pleaſed. In fine, he work'd ſo long till his Wages came to 40 Shillings, which he having receiv'd, comes home one Night and tells her of it, and that he would pay her in the Morning, which the old Wo<g ref="char:EOLhyphen"/>man not at all doubting, by reaſon of his fine Tongue. But the next Morning, inſtead of performing his promiſe, after having ſent her into the Cellar for a pot of Ale, he bolts the Door on the out ſide, and gently marched off, leaving his old Landlady to get her enlargement by a more civiller Cuſtomer.</p>
+               <p>Going from thence near <hi>Horſham</hi> in <hi>Suſſex,</hi> he overtook a Taylor as ragged as both their manners, who after <hi>Fuller</hi> found him in a neceſſitous Condition, and fit for any en<g ref="char:EOLhyphen"/>terpriſing
+<pb n="6" facs="tcp:109092:4"/>project, told him that he had thought of an in<g ref="char:EOLhyphen"/>vention that would help them both to Mony enough. (Quoth he) you ſhall ſham the blind Man, and I'll be the guide, and i'm ſure we ſhall make good Wages on't; the Taylor loving Idleneſs as well as <hi>Fuller,</hi> conſented to the Project, <hi>and accordingly the next day,</hi> they got ſome ſeering Candle, which ſeered up his Eye-lids ſo artificially, that he ſeem'd blind indeed, ſo they went away, rambling all over <hi>Surrey</hi> and <hi>Hampſhire,</hi> and in a ſhort time got about 4 <hi>l.</hi> ond afterwards going into <hi>Wiltſhire,</hi> where <hi>Fuller</hi> (be<g ref="char:EOLhyphen"/>ing <hi>Judas,</hi> for he kept the bag) was minded to cheat the counterfeit blind of his ſhare, when being to lead him over a Plank that lay croſs a Brook, <hi>Fuller</hi> lead him beſides it, where he left the blind Man in a very wet pickle, both comfortleſs and pennyleſs, in order to get his Eyes open to find his treacherous Fellow Traveller, but it was to as little purpoſe, as to look for a Needle in a Bottle of Hay.</p>
+               <p>
+                  <hi>At</hi> Blandford <hi>in</hi> Dorſetſhire, <hi>he made a Counterfeit paſs to ſave his Charges in his way to</hi> Newcaſtle, <hi>but was detected at</hi> Thornbury; <hi>and he corrected at the Whipping Poſt, by Order of Juſtice</hi> Manning. <hi>Being ſomewhat warm'd with the Beadles luſty Laſhes at</hi> Thornbury, <hi>as he went on the Road, he over took a Cart loaded with Hay, and coming into</hi> Abingdon <hi>an Inn<g ref="char:EOLhyphen"/>keeper ſeeing</hi> Fuller <hi>follow the Cart in a Countrey Habit, took him to be the owner, and thereupon asked him the price of it;</hi> Fuller <hi>told him</hi> 28 <hi>Shillings, and thereupon had the impudence to fetch him a handful of it, telling him 'twas as good as ever Noſe was put to; ſo that while the Carter was talking with ſome others,</hi> Fuller <hi>clapt up a Bargain for</hi> 26 <hi>Shillings, and gave him a Receipt for the Money, deſiring the Innkeeper to bid his Man make haſte home, ſo flinging down his Six-pence, march<g ref="char:EOLhyphen"/>ed off with his lucky Booty, leaving the Innkeeper to make the beſt of a bad Market.</hi>
+               </p>
+               <p>After this, coming to <hi>Bramyard</hi> in <hi>Herefordſhire,</hi> he ſo far inſinuated on the eaſie nature of the Curate, by pre<g ref="char:EOLhyphen"/>tending himſelf to be a <hi>Cambridge</hi>-Schollar, that he lent him his Horſe and Gown to ride to Church, which was ſome half a mile diſtance, in order to preach a Sermon for him; the Parſon and his Wife going the neareſt way over the Meads to the Church, he found his Pariſhioners won<g ref="char:EOLhyphen"/>dering to ſee him without his black Gown, but he told them he had lent his Gown to a young <hi>Cambridge</hi>-Schollar to preach for him that Morning, who he was ſure would make a pretty piece of work on't, and truly ſo he did,
+<pb n="7" facs="tcp:109092:4"/>for he rode away with his Horſe, Gown and Caſſock, and left the Congregation to go home to Dinner without a Ser<g ref="char:EOLhyphen"/>mon, and the Parſon without his Horſe, <hi>&amp;c.</hi> and at <hi>Henly</hi> upon <hi>Thames,</hi> at the <hi>Cathern Wheel,</hi> having run about 3 <hi>l.</hi> in the Score in 4 days time, he march'd off on Foot, and left his Horſe and his Landlord to diſpute the Reckoning.</p>
+               <p>In his way to <hi>London,</hi> near <hi>Maidenhead Thicket,</hi> ſeeing a Gentleman come riding after him, he laid himſelf down, pretending he heard ſomething extraordinary, and the Gen<g ref="char:EOLhyphen"/>tleman being inquiſitive to know what it was, <hi>Fuller</hi> reply<g ref="char:EOLunhyphen"/>ed, that till then, he did not believe there was ſuch things as Faries, but now he was convinced by hearing them not only talk, but making ſuch raviſhing Harmonies of all ſorts of Muſick as never was heard in this World, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen laid his Ear down cloſe again to the Ground, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen ſeem'd to admire it. The Gentleman being deſirous <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o hear this pleaſant Melody, deſires <hi>Fuller</hi> to hold his Horſe, and while he was attentive in liſtning with his Ear <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loſe to the Ground, <hi>Fuller</hi> whips upon his Horſe, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ides away with all ſpeed towards <hi>Slough,</hi> where being <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ear the Town, he turns the Horſe looſe, in order to let him find out his uſual Inn; and as he thought, it ſo happened, for he made <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nto the ſign of the</hi> Royal-Oak, <hi>and the Chamberlain ſeeing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im without his owner, Crys out Maſter, here's Mr.</hi> P.—'s <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orſe, which</hi> Fuller <hi>hearing, told the Innkeepeper that Mr.</hi> P.— <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ah ſent him with his Horſe from the</hi> White-Hart <hi>in</hi> Maiden<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead, <hi>deſiring him to ſend him Ten Pound, Yes, ſays the Inn<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eeper, a</hi> 100 <hi>l.</hi>
+                  <hi>without any pledge if he deſires it, ſo that he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aid the</hi> 10 <hi>l.</hi>
+                  <hi>immediately, and took</hi> Fullers <hi>Receipt for it, who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ou may be ſure did not ſtay long to diſpute, for ſome hours after <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e owner of the Horſe comes in his Jack-boots, puffing and blow<g ref="char:EOLhyphen"/>ing;</hi> Sir, ſays the Inkeeper, <hi>what need had you to ſend your Horſe to me for</hi> 10 <hi>l.</hi>
+                  <hi>when your own Note had been ſufficient for ten times as much. Why, is my Horſe here, ſays the Gen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>man? Yes, ſays the Hoſt, but I let the Man have</hi> 10 <hi>l.</hi>
+                  <hi>that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rought him on your Account: The Gentleman damn'd the Meſ<g ref="char:EOLhyphen"/>ſenger, but was glad he had borrow'd no more upon him, for he valu'd his Horſe at</hi> 40 <hi>Guineas.</hi>
+               </p>
+               <p>After his coming to <hi>London,</hi> he fell to his old Trade of writing Shams and Stories, which were believed by abun<g ref="char:EOLhyphen"/>dance of Knaves and Fools about Town, but puſhing the j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt too far, he was by both Houſes of Parliament, order'd to be proſecuted in good Earneſt for a Cheat, which was done accordingly, he being found guilty, and Sentenc'd to
+<pb n="8" facs="tcp:109092:5"/>the Pillory, and afterwards to <hi>Bridewel,</hi> there to be whip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and held to hard Labour, where we now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave him til the 24th of <hi>October next,</hi> where multitudes of all Ages Sexes, and Qualities pays him daily Viſits to ſee him han<g ref="char:EOLhyphen"/>dle the Beetle, and beat that Hemp which all <hi>along threat<g ref="char:EOLunhyphen"/>ned him</hi> with <hi>Deſtruction,</hi> which when he has accompliſh'd and paid his <hi>Fine</hi> of a <hi>Thouſand</hi> Marks for his Fees, he will be at liberty to ſet up his old Trade <hi>again,</hi> for without all queſtion, he'll <hi>not be unfurniſh'd</hi> with a Stock to begin with.</p>
+            </div>
+            <div type="elegy">
+               <head>
+                  <hi>His</hi> ELEGY.</head>
+               <l>LAment ye Females, who believ'd his Canting,</l>
+               <l>Since all his bleſhly motions now are wanting.</l>
+               <l>Sure every pious Dame, and Mother<hi>'s</hi> Daughter</l>
+               <l>Will with wet Eyes drop ſympathetick Water.</l>
+               <l>Tell me ye f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ones, is it not a pity?</l>
+               <l>He ſhould be ſnatch'd from Ladies in the City,</l>
+               <l>To be thus rudely exercis'd by Floging,</l>
+               <l>Who was ſo fit for Nightly ſports and Joging,</l>
+               <l>A Murri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take the Whip, ſays they, it ſpoild him,</l>
+               <l>And curſed be the Dirt and Eggs that moil'd him,</l>
+               <l>Cold is that Corps accuſtom'd once to warm ye,</l>
+               <l>Who us'd with Sword in Hand to mount and Storm ye:</l>
+               <l>Mute is that Tongue, ſo ſweetning and ſo daring,</l>
+               <l>The Noiſome Hemp has ſtopt him now from ſwearing:</l>
+               <l>Theſe ſmall white Hands are full of plaguy Bliſters,</l>
+               <l>That has ſo often ſtroak'd his pious Siſters;</l>
+               <l>Grim Death a damp upon his fancy ſtrikes,</l>
+               <l>And all is ſtiff but what a Lady likes;</l>
+               <l>While Grouds of M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bb, to ſee him fills the Door,</l>
+               <l>Which makes Bridewel, much <hi>FULLER</hi> than before.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109092:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
